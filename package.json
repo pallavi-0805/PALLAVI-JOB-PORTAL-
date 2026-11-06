@@ -1,0 +1,13 @@
+{
+  "name": "pallavi-job-portal",
+  "version": "1.0.0",
+  "description": "Pallavi Job Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  }
+}
